@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Artificial Intelligence and a GDG Organizer
+<p align="left">📚 I'm a GDG Organizer and currently learning Artificial Intelligence!
 
 ###
 
