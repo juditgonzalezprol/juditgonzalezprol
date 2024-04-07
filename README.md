@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Judit and I'm AI student, from Santiago de Compostela </p>
+<p align="left">My name is Judit and I'm an AI student, from Santiago de Compostela </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Artificial Intelligence
+<p align="left">📚 I'm currently learning Artificial Intelligence and a GDG Organizer
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">My social media</h3>
+<h2 align="left">My social media</h2>
 
 ###
 
