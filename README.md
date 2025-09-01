@@ -44,8 +44,6 @@
 
 ---
 
-<h2 align="left">🚀 My Website</h2>
-
 <p align="left">
   <a href="https://juditgonzalez.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20my%20website-blue?style=for-the-badge" alt="Website Button"/>
